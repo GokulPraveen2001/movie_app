@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter application.
+A Flutter application which gives us the list of top shows and movies at present on opening the app.
 
 
 ### HOME PAGE:
