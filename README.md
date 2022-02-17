@@ -2,6 +2,8 @@
 
 A Flutter application which gives us the list of top shows and movies at present on opening the app.
 
+This app used the TMDB api for fetching the movie data in the backend.
+
 
 ### HOME PAGE:
 
